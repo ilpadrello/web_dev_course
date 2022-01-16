@@ -1,0 +1,29 @@
+CSS : 7-10 GIORNI
+	• Cos'é il CSS? (Cascade Style Sheet) a cosa serve?
+	• Come si scrive un css
+	• Integrare un css in una pagina html
+		○ Integrazione su tag
+		○ Integrazione diretta
+		○ Integrazione esterna (link)
+	• Le classi
+	• Gli id
+	• Proprietà di base
+		○ Width
+		○ Height
+		○ Font-*
+		○ Background
+		○ Margin
+		○ Padding
+		○ Positions
+			§ Absolute
+			§ Relative
+			§ Fixed
+		○ Display
+			§ Inline
+			§ Block
+		○ Important! 
+			
+	• Altri selettori Selettori css
+		○ Selettori figli
+		○ Multi selezione
+		○ Attributi di selezione

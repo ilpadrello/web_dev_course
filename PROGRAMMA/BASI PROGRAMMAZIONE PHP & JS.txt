@@ -1,0 +1,42 @@
+LE BASI DELLA PROGRAMMAZIOE: JAVSCRIPT: (7-14 GIORNI)
+	• Introduzione alla programmazione
+	• La logica della programmazione (algoritmi)
+	• Le variabili
+		○ Assegnare una variabile
+		○ Riassegnare una variabile
+		○ Tipi di variabili e spazio un memoria
+			§ Boolean
+			§ Integer
+			§ Float
+			§ String
+			§ Array (solo il concetto) 
+			
+		○ Le costanti
+	• Calcoli tra variabili
+		○ Calcoli base (+ - * /) 
+		○ Calcoli con le parentesi
+		○ Calcoli avanzati (radice, resto, arrotondare, random)
+	• If (condizione)
+		○ Concetto di boolean
+		○ Tipi di condizioni ( == != < > <= >=)
+		○ Il blocco di codice
+		○ Else
+		○ Una variabile come condizione (true false 1 0) 
+		○ La negazione
+		○ Operatore and e or
+		○ Calcoli booleani
+		○ Calcoli boolean I con parentesi
+	• Switch case
+	• Gli array
+	• Loop while
+	• Loop for
+	• Gli array
+	• Le funzioni
+	• Funzioni esistenti
+	• Funzioni recursive
+	• Php vs javascript
+	• Le variabili globali in php
+		○ POST
+		○ GET
+	
+	• Gli oggetti

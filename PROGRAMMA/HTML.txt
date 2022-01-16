@@ -1,0 +1,38 @@
+HTML: 3/4 GIORNI
+	• Storia dell'HTML
+		○ Perché é stato inventato
+	• Cos'é l'HTML (Hyper Text Markup Language)
+		○ Il ruolo del browser
+		○ Inspecter le code
+	• Cos'é un tag HTML
+		○ Aprire e chiudere un tag
+		○ L'effetto matriosca
+		○ Render della pagina
+	• Gli attributi
+	• I tag più importanti
+		○ Html
+		○ Head
+		○ Body
+		○ Titles
+		○ Pargraphs
+		○ Bold
+		○ Italic
+		○ Link
+		○ Img
+		○ Table
+			§ Thead
+			§ Tbody
+			§ Th
+			§ Tr
+			§ Td
+		○ Divs
+		○ Span
+		○ Template
+		○ Inputs
+			§ Text
+			§ Textarea
+			§ Checkbox
+			§ Radio button
+			§ Select
+			§ Hidden
+		○ Iframe

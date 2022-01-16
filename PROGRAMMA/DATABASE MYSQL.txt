@@ -1,0 +1,26 @@
+MYSQL
+	1. Cos'è un database (inserisci leggi modifica cancella) 
+	2. Installare un database (XAMMP)
+	3. Concetto di database
+	4. Creiamo un db
+	5. Concetto di table
+	6. Creiamo una table
+	7. Concetto di colonna
+	8. Tipi di dati registrabili
+		a. Int
+		b. String...
+	9. Condizioni colonna (auto incrément, not null, default value) 
+	10. Creiamo le colonne
+	11. Concetto di record
+	12. Aggiungiamo dei record
+	13. Perché database relazionale?
+	14. Linguaggio SQL quanti?
+	15. Leggi da un database
+	16. Leggi da un database con condizioni (Where + and + or) 
+	17. Inserisci in un database
+	18. Modifica da un db
+	19. Elimina da un database
+	20. Altre condizioni utili (in between )
+	21. Una tavola come condizione (usando in)
+	22. Join (left right inner outer)
+	23. Le view
