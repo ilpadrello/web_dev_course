@@ -1,0 +1,10 @@
+MISSION: 
+0 For all those divs, remember to use a background color, so that the div will be visibile! remember also to put content inside the div or will be invisible
+1 Create a div that is always larger as the web page.
+2 Create a div that is always 50% of the width of the page and stay on the left of the page.
+3 Create a div that has 500px of width
+4 Create a div that is 80% of the page width, and stay always in the middle of the page (horizontally).
+5 Create a div that is 50% of the page width, horizontally centered. Inside this div there will be another div that is 80% of his parent (use 2 colors).
+6 Create a div that is always 100% the heigth of page and larger about 1/3 of the page.
+
+

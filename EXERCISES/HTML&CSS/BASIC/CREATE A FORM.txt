@@ -1,0 +1,18 @@
+MISSION:
+Create a form (formulaire) that will be used to store informations about a user.
+You dont need to style your form, but if you want you can.
+We need those informations:
+
+- Username
+- Password
+- FirstName
+- FamilyName 
+- Email address (should be email)
+- Age (Shoudl be a number)
+- Day of birth
+- Female / Male / Dont want to answer (only one of those)
+- Nationality (one of those English, French, Italian, Spanish, German, Usa, Canadian, French Canadian, Finnish, Norway, Swedish)
+- Knowledge (None or Many: Javascript, Php, Docker, HTML, CSS, Vue.js, React, Git, Gitlab, Github, Bash, NodeJs, Express, Symfony, Laraverl)
+- CV (send a file)
+
+You dont need to handle the answers of the users, we will look at that later on the course.
