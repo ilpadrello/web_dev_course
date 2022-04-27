@@ -5,10 +5,10 @@ LE BASI DELLA PROGRAMMAZIOE: JAVSCRIPT: (7-14 GIORNI)
 		○ Assegnare una variabile
 		○ Riassegnare una variabile
 		○ Tipi di variabili e spazio un memoria
-			§ Boolean
-			§ Integer
-			§ Float
-			§ String
+			§ Boolean (true o false)
+			§ Integer (numeri senza virgola)
+			§ Float (numeri con virgola mobile)
+			§ String (text)
 			§ Array (solo il concetto) 
 			
 		○ Le costanti
@@ -32,6 +32,7 @@ LE BASI DELLA PROGRAMMAZIOE: JAVSCRIPT: (7-14 GIORNI)
 	• Loop for
 	• Gli array
 	• Le funzioni
+	• Lo scope
 	• Funzioni esistenti
 	• Funzioni recursive
 	• Php vs javascript
